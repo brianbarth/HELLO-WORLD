@@ -1,2 +1,3 @@
 Nickolas has been fairly annoying today.
-I am adding a second line to this file.
+I am adding a second line to this file.git 
+I am adding a third line now
